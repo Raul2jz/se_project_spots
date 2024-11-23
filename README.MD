@@ -1,4 +1,4 @@
-# Sprint 3 Project
+# Spots - Sprint 3 Project
 
 ## HTML
 
@@ -17,7 +17,7 @@ Using Align-self, justify-content,align-Items in this project.
 
 Media screen would adjust at 627px
 used new changes we made like margin 100%
-flex-containers helped with moving elements around the container.
+flex-containers helped with moving stretching the add button.
 
 ## Figma
 
