@@ -34,3 +34,13 @@ Downloaded a jpeg instead of an svg File
 could not Change background color.
 
 Went down a huge rabbit hole Moving margins padding and really everything around trying to use a jpg file.
+
+## Deployment
+
+this webpage is deployed to Github Pages
+
+- [Depoyment link] (https://Raul2jz.github.io/se_project_spots)
+
+## Video link
+
+- [Deployment link] (https://www.loom.com/share/bd0bcee5d1fc4de495b187d11ba81696?sid=349a1427-0988-45cf-aeda-5f34a382092e)
