@@ -43,4 +43,4 @@ this webpage is deployed to Github Pages
 
 ## Video link
 
-- [Deployment link] (https://www.loom.com/share/bd0bcee5d1fc4de495b187d11ba81696?sid=349a1427-0988-45cf-aeda-5f34a382092e)
+- [Deployment link] (https://www.loom.com/share/bbd5922854a64054a8037603a268caa9?sid=90de88ee-05f8-445c-95d4-4003d24e4a95)
